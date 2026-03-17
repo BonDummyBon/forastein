@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: c0dcd88c54675ce4dbcdbfcc4139a916
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6508981679399031772
+    second: wall_strip_0_1_0
+  - first:
+      213: -5885084898682170992
+    second: wall_strip_0_1_1
+  - first:
+      213: 8862268916565844724
+    second: wall_strip_0_1_2
+  - first:
+      213: 1515212690868998978
+    second: wall_strip_0_1_3
+  - first:
+      213: 6611068244733762441
+    second: wall_strip_0_1_4
+  - first:
+      213: 5188451938307815055
+    second: wall_strip_0_1_5
+  - first:
+      213: -2440962195627013012
+    second: wall_strip_0_1_6
+  - first:
+      213: 2480375288259902211
+    second: wall_strip_0_1_7
+  - first:
+      213: -3745845429813353517
+    second: wall_strip_0_1_8
+  - first:
+      213: 6887050268973107013
+    second: wall_strip_0_1_9
+  - first:
+      213: -2277245368050370976
+    second: wall_strip_0_1_10
+  - first:
+      213: 4433542242750875127
+    second: wall_strip_0_1_11
+  - first:
+      213: 5109939754012645465
+    second: wall_strip_0_1_12
+  - first:
+      213: -1950243839835220252
+    second: wall_strip_0_1_13
+  - first:
+      213: 3660624596035735625
+    second: wall_strip_0_1_14
+  - first:
+      213: -4192700366547038132
+    second: wall_strip_0_1_15
+  - first:
+      213: -6964648466932827602
+    second: wall_strip_0_1_16
+  - first:
+      213: -1555883094729040273
+    second: wall_strip_0_1_17
+  - first:
+      213: 7123342297854168096
+    second: wall_strip_0_1_18
+  - first:
+      213: -3755894285150664304
+    second: wall_strip_0_1_19
+  - first:
+      213: 158047635202250401
+    second: wall_strip_0_1_20
+  - first:
+      213: 7636575156020540134
+    second: wall_strip_0_1_21
+  - first:
+      213: 2506048106529344658
+    second: wall_strip_0_1_22
+  - first:
+      213: 7990831972078306805
+    second: wall_strip_0_1_23
+  - first:
+      213: 1066726302711862141
+    second: wall_strip_0_1_24
+  - first:
+      213: 8684425633568459115
+    second: wall_strip_0_1_25
+  - first:
+      213: -542529007217131089
+    second: wall_strip_0_1_26
+  - first:
+      213: -5459452659754816189
+    second: wall_strip_0_1_27
+  - first:
+      213: -5973679847485019666
+    second: wall_strip_0_1_28
+  - first:
+      213: 5404819504969899556
+    second: wall_strip_0_1_29
+  - first:
+      213: 2244977971275194103
+    second: wall_strip_0_1_30
+  - first:
+      213: 521798271250054178
+    second: wall_strip_0_1_31
+  - first:
+      213: -8294808138688003025
+    second: wall_strip_0_1_32
+  - first:
+      213: 842655285315912665
+    second: wall_strip_0_1_33
+  - first:
+      213: -841877983529239044
+    second: wall_strip_0_1_34
+  - first:
+      213: -5342097932059701540
+    second: wall_strip_0_1_35
+  - first:
+      213: 8407984648023105339
+    second: wall_strip_0_1_36
+  - first:
+      213: -8857385897004612804
+    second: wall_strip_0_1_37
+  - first:
+      213: -335557581015867230
+    second: wall_strip_0_1_38
+  - first:
+      213: 5469226253148685290
+    second: wall_strip_0_1_39
+  - first:
+      213: 8210874208512569418
+    second: wall_strip_0_1_40
+  - first:
+      213: -6705978654609877229
+    second: wall_strip_0_1_41
+  - first:
+      213: -5502301194764955425
+    second: wall_strip_0_1_42
+  - first:
+      213: -2502303301444073173
+    second: wall_strip_0_1_43
+  - first:
+      213: -2502681942630493737
+    second: wall_strip_0_1_44
+  - first:
+      213: 6940827066452922573
+    second: wall_strip_0_1_45
+  - first:
+      213: 5303062435930579655
+    second: wall_strip_0_1_46
+  - first:
+      213: 3502838830220066310
+    second: wall_strip_0_1_47
+  - first:
+      213: 427300531104276937
+    second: wall_strip_0_1_48
+  - first:
+      213: -7725738477097585653
+    second: wall_strip_0_1_49
+  - first:
+      213: 6893867372472822400
+    second: wall_strip_0_1_50
+  - first:
+      213: -492291114409734875
+    second: wall_strip_0_1_51
+  - first:
+      213: -8961322864723050874
+    second: wall_strip_0_1_52
+  - first:
+      213: -2055849919802016955
+    second: wall_strip_0_1_53
+  - first:
+      213: -9070457282975048793
+    second: wall_strip_0_1_54
+  - first:
+      213: 6413900261276929303
+    second: wall_strip_0_1_55
+  - first:
+      213: -7025305419409967113
+    second: wall_strip_0_1_56
+  - first:
+      213: 8306318282709823505
+    second: wall_strip_0_1_57
+  - first:
+      213: 846796352175256307
+    second: wall_strip_0_1_58
+  - first:
+      213: 1813283178525200750
+    second: wall_strip_0_1_59
+  - first:
+      213: 3431149005772564330
+    second: wall_strip_0_1_60
+  - first:
+      213: 1741546228770926590
+    second: wall_strip_0_1_61
+  - first:
+      213: -8388253535126234274
+    second: wall_strip_0_1_62
+  - first:
+      213: 614657043510401066
+    second: wall_strip_0_1_63
+  - first:
+      213: 5979700578426863542
+    second: wall_strip_0_1_64
+  - first:
+      213: 5176967029036727109
+    second: wall_strip_0_1_65
+  - first:
+      213: -4972421400658228683
+    second: wall_strip_0_1_66
+  - first:
+      213: 5051468908835179649
+    second: wall_strip_0_1_67
+  - first:
+      213: 2762348961581634856
+    second: wall_strip_0_1_68
+  - first:
+      213: 3721333894200219972
+    second: wall_strip_0_1_69
+  - first:
+      213: 3171437225742243498
+    second: wall_strip_0_1_70
+  - first:
+      213: 8558483787883595056
+    second: wall_strip_0_1_71
+  - first:
+      213: -6382556679547114642
+    second: wall_strip_0_1_72
+  - first:
+      213: -8351964636689857439
+    second: wall_strip_0_1_73
+  - first:
+      213: -4070387488883816410
+    second: wall_strip_0_1_74
+  - first:
+      213: 2990765795052302553
+    second: wall_strip_0_1_75
+  - first:
+      213: 5831377843454889858
+    second: wall_strip_0_1_76
+  - first:
+      213: -5048523877725593017
+    second: wall_strip_0_1_77
+  - first:
+      213: -2553986473406516757
+    second: wall_strip_0_1_78
+  - first:
+      213: 5828036367926563908
+    second: wall_strip_0_1_79
+  - first:
+      213: 1007165662362625303
+    second: wall_strip_0_1_80
+  - first:
+      213: -8031887743492375107
+    second: wall_strip_0_1_81
+  - first:
+      213: -5439046612742975794
+    second: wall_strip_0_1_82
+  - first:
+      213: -8169806910250751797
+    second: wall_strip_0_1_83
+  - first:
+      213: 7033523645348387215
+    second: wall_strip_0_1_84
+  - first:
+      213: -4227365126020145889
+    second: wall_strip_0_1_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wall_strip_0_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3da12f95c845a50800000000000000
+      internalID: 6508981679399031772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919805177af35ea0800000000000000
+      internalID: -5885084898682170992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2a4e310aa1dfa70800000000000000
+      internalID: 8862268916565844724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24319661aed170510800000000000000
+      internalID: 1515212690868998978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9839aa8b3fbb50800000000000000
+      internalID: 6611068244733762441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86360d5c85110840800000000000000
+      internalID: 5188451938307815055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c8e7bd0d5ff1ed0800000000000000
+      internalID: -2440962195627013012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b736ede201c6220800000000000000
+      internalID: 2480375288259902211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3647c8d65140cc0800000000000000
+      internalID: -3745845429813353517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54786600bb7b39f50800000000000000
+      internalID: 6887050268973107013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06634f237699560e0800000000000000
+      internalID: -2277245368050370976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5cadb0e2b178d30800000000000000
+      internalID: 4433542242750875127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9581295f1272ae640800000000000000
+      internalID: 5109939754012645465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e65a3d7f875fe4e0800000000000000
+      internalID: -1950243839835220252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94094cedca62dc230800000000000000
+      internalID: 3660624596035735625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4050520b3980d5c0800000000000000
+      internalID: -4192700366547038132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2afffe9e19985f90800000000000000
+      internalID: -6964648466932827602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ed3aa9194686ae0800000000000000
+      internalID: -1555883094729040273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ccc1d24123bd260800000000000000
+      internalID: 7123342297854168096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099cca71c0260ebc0800000000000000
+      internalID: -3755894285150664304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a612d1ac7f713200800000000000000
+      internalID: 158047635202250401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e27d23e4a09af960800000000000000
+      internalID: 7636575156020540134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cc8bba97547c220800000000000000
+      internalID: 2506048106529344658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5cf83675325ee60800000000000000
+      internalID: 7990831972078306805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73d4b9abe5cdce00800000000000000
+      internalID: 1066726302711862141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6905270a17458870800000000000000
+      internalID: 8684425633568459115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa14a7c0ebc8878f0800000000000000
+      internalID: -542529007217131089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da04b3bb02c34b0800000000000000
+      internalID: -5459452659754816189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9eeb024d9391da0800000000000000
+      internalID: -5973679847485019666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e55dc24b6c10b40800000000000000
+      internalID: 5404819504969899556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe5f6a0293c72f10800000000000000
+      internalID: 2244977971275194103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cb54a53cccd3700800000000000000
+      internalID: 521798271250054178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f248b7512fbe2ec80800000000000000
+      internalID: -8294808138688003025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d34c557486b1bb00800000000000000
+      internalID: 842655285315912665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd74873f6c0154f0800000000000000
+      internalID: -841877983529239044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde8b340c3e0dd5b0800000000000000
+      internalID: -5342097932059701540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fda5e6d792fa470800000000000000
+      internalID: 8407984648023105339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c334c72847e341580800000000000000
+      internalID: -8857385897004612804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_38
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 11
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02cdd682cd75bf0800000000000000
+      internalID: -335557581015867230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae30b2fcc4896eb40800000000000000
+      internalID: 5469226253148685290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40fecde692e2f170800000000000000
+      internalID: 8210874208512569418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31750a481f39fe2a0800000000000000
+      internalID: -6705978654609877229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 11
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0d3de3736e3a3b0800000000000000
+      internalID: -5502301194764955425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b298325b768064dd0800000000000000
+      internalID: -2502303301444073173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d199bf6800b44dd0800000000000000
+      internalID: -2502681942630493737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0d75f5175c25060800000000000000
+      internalID: 6940827066452922573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c22c5b4033489940800000000000000
+      internalID: 5303062435930579655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e36b47b559c9030800000000000000
+      internalID: 3502838830220066310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16ec0b1931ee500800000000000000
+      internalID: 427300531104276937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04f70da9c9a8c490800000000000000
+      internalID: -7725738477097585653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ae5e899dfebaf50800000000000000
+      internalID: 6893867372472822400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dc687f6d70b29f0800000000000000
+      internalID: -492291114409734875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eb89a655cf2a380800000000000000
+      internalID: -8961322864723050874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b7faae3672873e0800000000000000
+      internalID: -2055849919802016955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abdae198234f1280800000000000000
+      internalID: -9070457282975048793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d423a2e40c20950800000000000000
+      internalID: 6413900261276929303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7317551f9118e90800000000000000
+      internalID: -7025305419409967113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11070482878f54370800000000000000
+      internalID: 8306318282709823505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b088bbcc60cb00800000000000000
+      internalID: 846796352175256307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e619f2591731a2910800000000000000
+      internalID: 1813283178525200750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67228c77d3ed9f20800000000000000
+      internalID: 3431149005772564330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effefc561173b2810800000000000000
+      internalID: 1741546228770926590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd2e84adfe69b80800000000000000
+      internalID: -8388253535126234274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_63
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2811211353b78800800000000000000
+      internalID: 614657043510401066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_64
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfb4588ef92cf250800000000000000
+      internalID: 5979700578426863542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb4ab851848d740800000000000000
+      internalID: 5176967029036727109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_66
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a4734c4196efab0800000000000000
+      internalID: -4972421400658228683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_67
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0d01753c6a1640800000000000000
+      internalID: 5051468908835179649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8251eb8beb5d55620800000000000000
+      internalID: 2762348961581634856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449dc66d575d4a330800000000000000
+      internalID: 3721333894200219972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_70
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa611d39a55330c20800000000000000
+      internalID: 3171437225742243498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035cdb809a7d5c670800000000000000
+      internalID: 8558483787883595056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b2cc4248a9c67a0800000000000000
+      internalID: -6382556679547114642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1640a7dd96cd71c80800000000000000
+      internalID: -8351964636689857439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628c2ea05241387c0800000000000000
+      internalID: -4070387488883816410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_75
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03b7415a5518920800000000000000
+      internalID: 2990765795052302553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f463ea0473de050800000000000000
+      internalID: 5831377843454889858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_77
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a61c084a00f9b0800000000000000
+      internalID: -5048523877725593017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1b37385da6e8cd0800000000000000
+      internalID: -2553986473406516757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4441258c23851e050800000000000000
+      internalID: 5828036367926563908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715681f65db2afd00800000000000000
+      internalID: 1007165662362625303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_81
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdb25de6a0098090800000000000000
+      internalID: -8031887743492375107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecec9aa4cef9484b0800000000000000
+      internalID: -5439046612742975794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_83
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8e8fe86e30f9e80800000000000000
+      internalID: -8169806910250751797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f891d408d781c9160800000000000000
+      internalID: 7033523645348387215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_strip_0_1_85
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dd1bfb0d16555c0800000000000000
+      internalID: -4227365126020145889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wall_strip_0_1_0: 6508981679399031772
+      wall_strip_0_1_1: -5885084898682170992
+      wall_strip_0_1_10: -2277245368050370976
+      wall_strip_0_1_11: 4433542242750875127
+      wall_strip_0_1_12: 5109939754012645465
+      wall_strip_0_1_13: -1950243839835220252
+      wall_strip_0_1_14: 3660624596035735625
+      wall_strip_0_1_15: -4192700366547038132
+      wall_strip_0_1_16: -6964648466932827602
+      wall_strip_0_1_17: -1555883094729040273
+      wall_strip_0_1_18: 7123342297854168096
+      wall_strip_0_1_19: -3755894285150664304
+      wall_strip_0_1_2: 8862268916565844724
+      wall_strip_0_1_20: 158047635202250401
+      wall_strip_0_1_21: 7636575156020540134
+      wall_strip_0_1_22: 2506048106529344658
+      wall_strip_0_1_23: 7990831972078306805
+      wall_strip_0_1_24: 1066726302711862141
+      wall_strip_0_1_25: 8684425633568459115
+      wall_strip_0_1_26: -542529007217131089
+      wall_strip_0_1_27: -5459452659754816189
+      wall_strip_0_1_28: -5973679847485019666
+      wall_strip_0_1_29: 5404819504969899556
+      wall_strip_0_1_3: 1515212690868998978
+      wall_strip_0_1_30: 2244977971275194103
+      wall_strip_0_1_31: 521798271250054178
+      wall_strip_0_1_32: -8294808138688003025
+      wall_strip_0_1_33: 842655285315912665
+      wall_strip_0_1_34: -841877983529239044
+      wall_strip_0_1_35: -5342097932059701540
+      wall_strip_0_1_36: 8407984648023105339
+      wall_strip_0_1_37: -8857385897004612804
+      wall_strip_0_1_38: -335557581015867230
+      wall_strip_0_1_39: 5469226253148685290
+      wall_strip_0_1_4: 6611068244733762441
+      wall_strip_0_1_40: 8210874208512569418
+      wall_strip_0_1_41: -6705978654609877229
+      wall_strip_0_1_42: -5502301194764955425
+      wall_strip_0_1_43: -2502303301444073173
+      wall_strip_0_1_44: -2502681942630493737
+      wall_strip_0_1_45: 6940827066452922573
+      wall_strip_0_1_46: 5303062435930579655
+      wall_strip_0_1_47: 3502838830220066310
+      wall_strip_0_1_48: 427300531104276937
+      wall_strip_0_1_49: -7725738477097585653
+      wall_strip_0_1_5: 5188451938307815055
+      wall_strip_0_1_50: 6893867372472822400
+      wall_strip_0_1_51: -492291114409734875
+      wall_strip_0_1_52: -8961322864723050874
+      wall_strip_0_1_53: -2055849919802016955
+      wall_strip_0_1_54: -9070457282975048793
+      wall_strip_0_1_55: 6413900261276929303
+      wall_strip_0_1_56: -7025305419409967113
+      wall_strip_0_1_57: 8306318282709823505
+      wall_strip_0_1_58: 846796352175256307
+      wall_strip_0_1_59: 1813283178525200750
+      wall_strip_0_1_6: -2440962195627013012
+      wall_strip_0_1_60: 3431149005772564330
+      wall_strip_0_1_61: 1741546228770926590
+      wall_strip_0_1_62: -8388253535126234274
+      wall_strip_0_1_63: 614657043510401066
+      wall_strip_0_1_64: 5979700578426863542
+      wall_strip_0_1_65: 5176967029036727109
+      wall_strip_0_1_66: -4972421400658228683
+      wall_strip_0_1_67: 5051468908835179649
+      wall_strip_0_1_68: 2762348961581634856
+      wall_strip_0_1_69: 3721333894200219972
+      wall_strip_0_1_7: 2480375288259902211
+      wall_strip_0_1_70: 3171437225742243498
+      wall_strip_0_1_71: 8558483787883595056
+      wall_strip_0_1_72: -6382556679547114642
+      wall_strip_0_1_73: -8351964636689857439
+      wall_strip_0_1_74: -4070387488883816410
+      wall_strip_0_1_75: 2990765795052302553
+      wall_strip_0_1_76: 5831377843454889858
+      wall_strip_0_1_77: -5048523877725593017
+      wall_strip_0_1_78: -2553986473406516757
+      wall_strip_0_1_79: 5828036367926563908
+      wall_strip_0_1_8: -3745845429813353517
+      wall_strip_0_1_80: 1007165662362625303
+      wall_strip_0_1_81: -8031887743492375107
+      wall_strip_0_1_82: -5439046612742975794
+      wall_strip_0_1_83: -8169806910250751797
+      wall_strip_0_1_84: 7033523645348387215
+      wall_strip_0_1_85: -4227365126020145889
+      wall_strip_0_1_9: 6887050268973107013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

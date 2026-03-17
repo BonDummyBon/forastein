@@ -1,0 +1,150 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.{yml,yaml,json,uxml,uss,xml,props,targets,csproj,sln,slnx}]
+indent_style = space
+indent_size = 2
+
+[*.{cs,csx}]
+indent_style = space
+indent_size = 4
+tab_width = 4
+
+# Prefer explicit structure and stable diffs.
+dotnet_sort_system_directives_first = true
+dotnet_separate_import_directive_groups = false
+file_header_template = unset
+
+# Keep the existing repo brace style.
+csharp_new_line_before_open_brace = none
+csharp_new_line_before_else = false
+csharp_new_line_before_catch = false
+csharp_new_line_before_finally = false
+csharp_new_line_before_members_in_object_initializers = false
+csharp_new_line_before_members_in_anonymous_types = false
+csharp_new_line_between_query_expression_clauses = false
+
+# Spacing and wrapping.
+csharp_space_after_keywords_in_control_flow_statements = true
+csharp_space_after_cast = false
+csharp_space_before_colon_in_inheritance_clause = true
+csharp_space_after_colon_in_inheritance_clause = true
+csharp_space_around_binary_operators = before_and_after
+csharp_space_before_open_square_brackets = false
+csharp_space_between_method_declaration_parameter_list_parentheses = false
+csharp_space_between_method_call_parameter_list_parentheses = false
+csharp_space_between_parentheses = false
+csharp_space_between_square_brackets = false
+
+# Preserve compact code where the team already writes it.
+csharp_preserve_single_line_blocks = true
+csharp_preserve_single_line_statements = true
+
+# Prefer clear C# over overly aggressive terseness.
+csharp_prefer_braces = true:suggestion
+csharp_style_var_for_built_in_types = false:suggestion
+csharp_style_var_when_type_is_apparent = false:suggestion
+csharp_style_var_elsewhere = false:suggestion
+csharp_style_prefer_switch_expression = true:suggestion
+csharp_style_prefer_pattern_matching = true:suggestion
+csharp_style_prefer_not_pattern = true:suggestion
+csharp_style_prefer_simple_default_expression = true:suggestion
+csharp_style_prefer_local_over_anonymous_function = false:silent
+csharp_style_expression_bodied_methods = false:silent
+csharp_style_expression_bodied_constructors = false:silent
+csharp_style_expression_bodied_operators = when_on_single_line:silent
+csharp_style_expression_bodied_properties = when_on_single_line:silent
+csharp_style_expression_bodied_indexers = when_on_single_line:silent
+csharp_style_expression_bodied_accessors = when_on_single_line:silent
+
+# Keep modifier order and namespace usage consistent.
+csharp_preferred_modifier_order = public, private, protected, internal, file, static, extern, new, virtual, abstract, sealed, override, readonly, unsafe, required, volatile, async:suggestion
+csharp_style_namespace_declarations = block_scoped:silent
+
+# Basic .NET style preferences.
+dotnet_style_qualification_for_field = false:silent
+dotnet_style_qualification_for_property = false:silent
+dotnet_style_qualification_for_method = false:silent
+dotnet_style_qualification_for_event = false:silent
+dotnet_style_object_initializer = true:suggestion
+dotnet_style_collection_initializer = true:suggestion
+dotnet_style_prefer_auto_properties = true:suggestion
+dotnet_style_prefer_collection_expression = false:silent
+dotnet_style_coalesce_expression = true:suggestion
+dotnet_style_null_propagation = true:suggestion
+dotnet_style_prefer_is_null_check_over_reference_equality_method = true:suggestion
+dotnet_style_operator_placement_when_wrapping = beginning_of_line
+
+# Naming rules aligned with the current codebase and common Unity patterns.
+dotnet_naming_rule.interfaces_should_be_prefixed_with_i.severity = suggestion
+dotnet_naming_rule.interfaces_should_be_prefixed_with_i.symbols = interfaces
+dotnet_naming_rule.interfaces_should_be_prefixed_with_i.style = interface_style
+
+dotnet_naming_rule.public_members_should_be_pascal_case.severity = suggestion
+dotnet_naming_rule.public_members_should_be_pascal_case.symbols = public_members
+dotnet_naming_rule.public_members_should_be_pascal_case.style = pascal_case_style
+
+dotnet_naming_rule.private_fields_should_be_camel_case.severity = suggestion
+dotnet_naming_rule.private_fields_should_be_camel_case.symbols = private_fields
+dotnet_naming_rule.private_fields_should_be_camel_case.style = camel_case_style
+
+dotnet_naming_rule.private_static_readonly_fields_should_be_pascal_case.severity = suggestion
+dotnet_naming_rule.private_static_readonly_fields_should_be_pascal_case.symbols = private_static_readonly_fields
+dotnet_naming_rule.private_static_readonly_fields_should_be_pascal_case.style = pascal_case_style
+
+dotnet_naming_symbols.interfaces.applicable_kinds = interface
+dotnet_naming_symbols.interfaces.applicable_accessibilities = *
+dotnet_naming_symbols.interfaces.required_modifiers =
+
+dotnet_naming_symbols.public_members.applicable_kinds = property, method, event, field
+dotnet_naming_symbols.public_members.applicable_accessibilities = public, protected, protected_internal
+dotnet_naming_symbols.public_members.required_modifiers =
+
+dotnet_naming_symbols.private_fields.applicable_kinds = field
+dotnet_naming_symbols.private_fields.applicable_accessibilities = private
+dotnet_naming_symbols.private_fields.required_modifiers =
+
+dotnet_naming_symbols.private_static_readonly_fields.applicable_kinds = field
+dotnet_naming_symbols.private_static_readonly_fields.applicable_accessibilities = private
+dotnet_naming_symbols.private_static_readonly_fields.required_modifiers = static, readonly
+
+dotnet_naming_style.interface_style.required_prefix = I
+dotnet_naming_style.interface_style.capitalization = pascal_case
+
+dotnet_naming_style.pascal_case_style.capitalization = pascal_case
+
+dotnet_naming_style.camel_case_style.capitalization = camel_case
+
+# Keep diagnostics useful without turning the repo into warning noise.
+dotnet_diagnostic.IDE0003.severity = suggestion
+dotnet_diagnostic.IDE0007.severity = suggestion
+dotnet_diagnostic.IDE0008.severity = suggestion
+dotnet_diagnostic.IDE0011.severity = suggestion
+dotnet_diagnostic.IDE0044.severity = suggestion
+dotnet_diagnostic.IDE0055.severity = suggestion
+dotnet_diagnostic.IDE0060.severity = silent
+dotnet_diagnostic.IDE0066.severity = suggestion
+dotnet_diagnostic.IDE0090.severity = suggestion
+dotnet_diagnostic.IDE0160.severity = suggestion
+dotnet_diagnostic.IDE0161.severity = suggestion
+
+# Unity scripts: prefer serialized backing fields over auto-properties.
+[Assets/**/*.cs]
+dotnet_style_prefer_auto_properties = false:silent
+dotnet_diagnostic.IDE0032.severity = none
+
+# Unity serialization does not support readonly fields in Inspector data flows.
+dotnet_diagnostic.IDE0044.severity = silent
+
+# Allow project-specific serialized field naming without noisy style warnings.
+dotnet_diagnostic.IDE1006.severity = silent

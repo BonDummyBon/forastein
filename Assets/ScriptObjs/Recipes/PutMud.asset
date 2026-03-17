@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 882fbdabdb8aeb944a66707acc8d5677, type: 3}
+  m_Name: PutMud
+  m_EditorClassIdentifier: Assembly-CSharp::CraftingRecipe
+  RecipeName: Put Mud
+  WaitTime: 1
+  Inputs:
+  - Item: {fileID: 11400000, guid: e5f801a1a0037be4abe1a3a08994e497, type: 2}
+    Count: 1
+    Port: 0
+    Source: 0
+  Outputs:
+  - Item: {fileID: 11400000, guid: e5f801a1a0037be4abe1a3a08994e497, type: 2}
+    Count: 1
+    Port: 1
+    Source: 0

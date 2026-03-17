@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 882fbdabdb8aeb944a66707acc8d5677, type: 3}
+  m_Name: MoldTheMud
+  m_EditorClassIdentifier: Assembly-CSharp::VendingRecipe
+  RecipeName: Mold the Mud
+  WaitTime: 3
+  Inputs:
+  - Item: {fileID: 11400000, guid: e5f801a1a0037be4abe1a3a08994e497, type: 2}
+    Count: 1
+    Port: 1
+    Source: 0
+  Outputs:
+  - Item: {fileID: 11400000, guid: e2f7261a52a3f434aa505218039bbab8, type: 2}
+    Count: 1
+    Port: 1
+    Source: 0
