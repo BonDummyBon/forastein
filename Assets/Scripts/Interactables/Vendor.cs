@@ -7,9 +7,14 @@ public class Vendor : MonoBehaviour {
     [SerializeField] private VendingRecipe[] recipeList;
 
     public void Vend(GameObject interactor) {
-        StartCoroutine(DelayedVending(interactor));
+        Vend(interactor, null);
     }
-    private IEnumerator DelayedVending(GameObject interactor) {
+
+    public void Vend(GameObject interactor, System.Action interactionEnded) {
+        StartCoroutine(DelayedVending(interactor, interactionEnded));
+    }
+
+    private IEnumerator DelayedVending(GameObject interactor, System.Action interactionEnded) {
         VendingRecipe recipe = RecipeFinder.Find(interactor, gameObject, recipeList);
 
         if (recipe != null) {
@@ -18,8 +23,6 @@ public class Vendor : MonoBehaviour {
             yield return recipe.CachedWaitTime;
 
             if (interactor.TryGetComponent(out Inventory interactorInventory)) {
-                // List<GameItem> interactorItems = (List<GameItem>)interactorInventory.GetAllGameItems();
-                // List<GameItem> vendorItems = (List<GameItem>)inventory.GetAllGameItems();
                 List<GameItem> interactorItems = new();
                 List<GameItem> vendorItems = new();
                 RemoveItems(interactorInventory, interactorItems, inventory, vendorItems, recipe);
@@ -31,6 +34,8 @@ public class Vendor : MonoBehaviour {
         if (interactor.TryGetComponent(out State interactorState)) {
             interactorState.NextSubState();
         }
+
+        interactionEnded?.Invoke();
     }
 
     private static void AddItems(List<GameItem> interactorItems, Inventory interactorInventory, List<GameItem> vendorItems, Inventory vendorInventory, VendingRecipe recipe) {
