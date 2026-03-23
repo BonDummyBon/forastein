@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class DumpsterInteract : MonoBehaviour, IInteract {
@@ -5,6 +6,8 @@ public class DumpsterInteract : MonoBehaviour, IInteract {
 
     [SerializeField] private GameObject nodeContainer = default;
     [SerializeField] private Vendor gameItemVendor = default;
+
+    public event Action InteractionEnded;
 
     #endregion
 

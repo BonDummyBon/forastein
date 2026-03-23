@@ -1,8 +1,11 @@
+using System;
 using UnityEngine;
 
 public class TableInteract : MonoBehaviour, IInteract {
 
     [SerializeField] private Vendor gameItemVendor = default;
+
+    public event Action InteractionEnded;
 
     public GameObject GetNodeContainer() => null;
 
